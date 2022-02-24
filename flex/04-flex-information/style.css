@@ -12,6 +12,17 @@ img {
   font-weight: 900;
 }
 
+.container-principal{
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-individual{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
