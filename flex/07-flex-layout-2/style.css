@@ -11,6 +11,12 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding-left: 8px;
+  font-weight:900;
+  font-size:30px;
 }
 
 .content{
